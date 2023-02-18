@@ -3,17 +3,25 @@
 # Cryptocurrencies
 # **Deliverable 1: Preprocessing the Data for PCA**
 
+![image](https://user-images.githubusercontent.com/112348240/219902268-7ed9ea55-3697-46ef-8499-98289594ede9.png)
+
 ![image](https://user-images.githubusercontent.com/112348240/219899154-9380cb53-9784-4c40-800d-ab5b97c119be.png)
 
 # **Deliverable 2: Reducing Data Dimensions Using PCA**
+## **Create a DataFrame with the three principal components.**
+![image](https://user-images.githubusercontent.com/112348240/219902393-10a5296f-c945-4115-9b03-34d0db026d5d.png)
+
 ![image](https://user-images.githubusercontent.com/112348240/219899104-d7f400af-1717-4028-a327-dc7b5402198e.png)
 
 # **Deliverable 3: Clustering Crytocurrencies Using K-Means**
-  ## **Finding the Best Value for k Using the Elbow Curve**
-  
+
+## Create a new DataFrame including predicted clusters and cryptocurrencies features.
+![image](https://user-images.githubusercontent.com/112348240/219902484-9473d0ef-9cfe-4678-9dec-699db3f7b8fe.png)
+    
   ![image](https://user-images.githubusercontent.com/112348240/219899331-95ef26fd-7883-4603-9867-482c4ce46304.png)
 
-  
+## **Finding the Best Value for k Using the Elbow Curve**
+
   ![Elbow Curve](https://user-images.githubusercontent.com/112348240/219898914-462c205d-6ee5-4d03-bbb6-847d50b374fc.png)
   
   We can see that the **k=4** on the Elbow Curve above
