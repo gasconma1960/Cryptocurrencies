@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/112348240/219899002-de62ad40-54f3-4058-8d3c-4f0d35ad317f.png)
 
-
-
 # Cryptocurrencies
 # **Deliverable 1: Preprocessing the Data for PCA**
 
@@ -12,6 +10,9 @@
 
 # **Deliverable 3: Clustering Crytocurrencies Using K-Means**
   ## **Finding the Best Value for k Using the Elbow Curve**
+  
+  ![image](https://user-images.githubusercontent.com/112348240/219899331-95ef26fd-7883-4603-9867-482c4ce46304.png)
+
   
   ![Elbow Curve](https://user-images.githubusercontent.com/112348240/219898914-462c205d-6ee5-4d03-bbb6-847d50b374fc.png)
 
