@@ -17,11 +17,18 @@
   ![Elbow Curve](https://user-images.githubusercontent.com/112348240/219898914-462c205d-6ee5-4d03-bbb6-847d50b374fc.png)
 
 # **Deliverable 4: Visualizing Cryptocurrencies Results**
+
+![image](https://user-images.githubusercontent.com/112348240/219899443-aec2a16b-252f-4c70-9540-16e691b69ec3.png)
+
+![image](https://user-images.githubusercontent.com/112348240/219899521-07d223ea-bd15-4f67-a4a9-cdc75c85e1f0.png)
+
+
   ## **3D-Scatter with Clusters**
   
   ![Screenshot 2023-02-18 022825](https://user-images.githubusercontent.com/112348240/219898898-ebdd3a8c-c137-4fb5-9e98-f4b10a62ed5b.png)
 
-  
+   ## **Scatter Plot**
+   
   ![Screenshot 2023-02-18 022903](https://user-images.githubusercontent.com/112348240/219898890-e77e5485-9c15-457f-9c90-fdb756436732.png)
 
   
