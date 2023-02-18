@@ -15,6 +15,8 @@
 
   
   ![Elbow Curve](https://user-images.githubusercontent.com/112348240/219898914-462c205d-6ee5-4d03-bbb6-847d50b374fc.png)
+  
+  We can see that the **k=4** on the Elbow Curve above
 
 # **Deliverable 4: Visualizing Cryptocurrencies Results**
 
@@ -30,6 +32,20 @@
    ## **Scatter Plot**
    
   ![Screenshot 2023-02-18 022903](https://user-images.githubusercontent.com/112348240/219898890-e77e5485-9c15-457f-9c90-fdb756436732.png)
+  
+  
+  # **Sources:**
+  - Crypto_data.csv
+  - The K-means algorithm 
+  - Dimensions Using PCA
+  - hvPlot
+  
+  # **Module 19 Challenge**
+  
+  **UCF Bootcamp Data Visualization and Analytics**
+  
+  **by: Marisol Gascon Linarez**
+  
 
   
 
