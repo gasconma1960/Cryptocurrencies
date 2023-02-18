@@ -28,6 +28,8 @@
 
 # **Deliverable 4: Visualizing Cryptocurrencies Results**
 
+![image](https://user-images.githubusercontent.com/112348240/219902913-498afac0-6071-4ab3-9dca-8d4a0b115240.png)
+
 ![image](https://user-images.githubusercontent.com/112348240/219899443-aec2a16b-252f-4c70-9540-16e691b69ec3.png)
 
 ![image](https://user-images.githubusercontent.com/112348240/219899521-07d223ea-bd15-4f67-a4a9-cdc75c85e1f0.png)
@@ -39,6 +41,8 @@
 
    ## **Scatter Plot**
    
+  ![image](https://user-images.githubusercontent.com/112348240/219902925-0b128644-b437-4974-ac63-aa86c9252c6b.png)
+
   ![Screenshot 2023-02-18 022903](https://user-images.githubusercontent.com/112348240/219898890-e77e5485-9c15-457f-9c90-fdb756436732.png)
   
   
@@ -53,11 +57,3 @@
   **UCF Bootcamp Data Visualization and Analytics**
   
   **by: Marisol Gascon Linarez**
-  
-
-  
-
-
-  
-
-
